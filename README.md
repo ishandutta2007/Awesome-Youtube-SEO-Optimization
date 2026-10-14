@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Youtube-SEO-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Youtube-SEO-Optimization?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Youtube-SEO-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Youtube-SEO-Optimization?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-SEO-Optimization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Youtube-SEO-Optimization?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-SEO-Optimization/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Youtube-SEO-Optimization?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-SEO-Optimization/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -62,51 +62,51 @@ The table below outlines leading commercial YouTube SEO solutions, sorted descen
 
 ## 💻 Open-Source GitHub Projects
 
-Explore verified open-source YouTube SEO repositories, CLI utilities, and MCP servers. Repositories are sorted descending by GitHub star count:
+Explore verified open-source YouTube SEO repositories, CLI utilities, and MCP servers. Repositories are sorted descending by GitHub Stars_Count:
 
-- **[claude-youtube](https://github.com/AgriciDaniel/claude-youtube)** [![GitHub stars](https://img.shields.io/github/stars/AgriciDaniel/claude-youtube?style=social&color=white)](https://github.com/AgriciDaniel/claude-youtube/stargazers)  
+- **[claude-youtube](https://github.com/AgriciDaniel/claude-youtube)** [![GitHub_Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-youtube?style=social&color=white)](https://github.com/AgriciDaniel/claude-youtube/stargazers)  
   Comprehensive Claude Code skill suite for YouTube creators covering end-to-end channel audits, video SEO metadata, retention scripts, thumbnail concepts, Shorts strategy, and monetization analytics.
 
-- **[youtube-marketing-skills](https://github.com/adityaarsharma/youtube-marketing-skills)** [![GitHub stars](https://img.shields.io/github/stars/adityaarsharma/youtube-marketing-skills?style=social&color=white)](https://github.com/adityaarsharma/youtube-marketing-skills/stargazers)  
+- **[youtube-marketing-skills](https://github.com/adityaarsharma/youtube-marketing-skills)** [![GitHub_Stars](https://img.shields.io/github/stars/adityaarsharma/youtube-marketing-skills?style=social&color=white)](https://github.com/adityaarsharma/youtube-marketing-skills/stargazers)  
   Agent-agnostic YouTube growth toolkit featuring 21 AI commands and a live channel MCP server. Compatible with Claude Code, Cursor, Codex, Windsurf, and Gemini CLI. Integrates DataForSEO MCP for live YouTube SERP metrics, keyword volumes, and competitor gap auditing.
 
-- **[youtube-skills](https://github.com/sergebulaev/youtube-skills)** [![GitHub stars](https://img.shields.io/github/stars/sergebulaev/youtube-skills?style=social&color=white)](https://github.com/sergebulaev/youtube-skills/stargazers)  
+- **[youtube-skills](https://github.com/sergebulaev/youtube-skills)** [![GitHub_Stars](https://img.shields.io/github/stars/sergebulaev/youtube-skills?style=social&color=white)](https://github.com/sergebulaev/youtube-skills/stargazers)  
   YouTube and Shorts marketing skills suite for LLM agents (Claude Code, Codex) focused on high-CTR title engineering, SEO-optimized descriptions, retention hooks, thumbnail briefs, and publishing calendars.
 
-- **[Youtube2Blog](https://github.com/badboysm890/Youtube2Blog)** [![GitHub stars](https://img.shields.io/github/stars/badboysm890/Youtube2Blog?style=social&color=white)](https://github.com/badboysm890/Youtube2Blog/stargazers)  
+- **[Youtube2Blog](https://github.com/badboysm890/Youtube2Blog)** [![GitHub_Stars](https://img.shields.io/github/stars/badboysm890/Youtube2Blog?style=social&color=white)](https://github.com/badboysm890/Youtube2Blog/stargazers)  
   AI-powered content repurposing engine converting YouTube video transcripts into SEO-optimized, publication-ready blog posts and long-form web content to capture cross-platform search traffic.
 
-- **[YoutubeTags](https://github.com/nuhmanpk/YoutubeTags)** [![GitHub stars](https://img.shields.io/github/stars/nuhmanpk/YoutubeTags?style=social&color=white)](https://github.com/nuhmanpk/YoutubeTags/stargazers)  
+- **[YoutubeTags](https://github.com/nuhmanpk/YoutubeTags)** [![GitHub_Stars](https://img.shields.io/github/stars/nuhmanpk/YoutubeTags?style=social&color=white)](https://github.com/nuhmanpk/YoutubeTags/stargazers)  
   Fast, lightweight YouTube SEO utility for extracting hidden tags, keywords, and metadata directly from public video URLs without requiring Google Cloud credentials or consuming API quotas.
 
-- **[youtube-mcp-server](https://github.com/pauling-ai/youtube-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/pauling-ai/youtube-mcp-server?style=social&color=white)](https://github.com/pauling-ai/youtube-mcp-server/stargazers)  
+- **[youtube-mcp-server](https://github.com/pauling-ai/youtube-mcp-server)** [![GitHub_Stars](https://img.shields.io/github/stars/pauling-ai/youtube-mcp-server?style=social&color=white)](https://github.com/pauling-ai/youtube-mcp-server/stargazers)  
   Full-featured Model Context Protocol (MCP) server exposing 40 tools covering YouTube Data API v3, Analytics API, and Reporting API for programmatic video SEO discovery, transcript extraction, and audience insights.
 
-- **[youtube-analytics-bot](https://github.com/Prem-ium/youtube-analytics-bot)** [![GitHub stars](https://img.shields.io/github/stars/Prem-ium/youtube-analytics-bot?style=social&color=white)](https://github.com/Prem-ium/youtube-analytics-bot/stargazers)  
+- **[youtube-analytics-bot](https://github.com/Prem-ium/youtube-analytics-bot)** [![GitHub_Stars](https://img.shields.io/github/stars/Prem-ium/youtube-analytics-bot?style=social&color=white)](https://github.com/Prem-ium/youtube-analytics-bot/stargazers)  
   Discord bot and automated monitoring agent that tracks channel statistics, view velocity metrics, subscriber trajectories, and delivers real-time performance alerts to creator communities.
 
-- **[Awesome-youtube-ai-tools](https://github.com/signuphere88/Awesome-youtube-ai-tools)** [![GitHub stars](https://img.shields.io/github/stars/signuphere88/Awesome-youtube-ai-tools?style=social&color=white)](https://github.com/signuphere88/Awesome-youtube-ai-tools/stargazers)  
+- **[Awesome-youtube-ai-tools](https://github.com/signuphere88/Awesome-youtube-ai-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/signuphere88/Awesome-youtube-ai-tools?style=social&color=white)](https://github.com/signuphere88/Awesome-youtube-ai-tools/stargazers)  
   Curated list of AI engines, SEO scripts, and automated creation pipelines designed for indie video creators and technical channel operators.
 
-- **[Advanced-Youtube-Seo-Generator-2.0](https://github.com/Avinashricky211/Advanced-Youtube-Seo-Generator-2.0)** [![GitHub stars](https://img.shields.io/github/stars/Avinashricky211/Advanced-Youtube-Seo-Generator-2.0?style=social&color=white)](https://github.com/Avinashricky211/Advanced-Youtube-Seo-Generator-2.0/stargazers)  
+- **[Advanced-Youtube-Seo-Generator-2.0](https://github.com/Avinashricky211/Advanced-Youtube-Seo-Generator-2.0)** [![GitHub_Stars](https://img.shields.io/github/stars/Avinashricky211/Advanced-Youtube-Seo-Generator-2.0?style=social&color=white)](https://github.com/Avinashricky211/Advanced-Youtube-Seo-Generator-2.0/stargazers)  
   Python automation script leveraging the YouTube Data API to analyze high-performing competitor tags, evaluate keyword density, and generate structured titles, descriptions, and hashtags.
 
-- **[Aurora](https://github.com/bvbvbv54/Aurora)** [![GitHub stars](https://img.shields.io/github/stars/bvbvbv54/Aurora?style=social&color=white)](https://github.com/bvbvbv54/Aurora/stargazers)  
+- **[Aurora](https://github.com/bvbvbv54/Aurora)** [![GitHub_Stars](https://img.shields.io/github/stars/bvbvbv54/Aurora?style=social&color=white)](https://github.com/bvbvbv54/Aurora/stargazers)  
   Evidence-first YouTube keyword research automation featuring recursive search autocomplete scraping, VidIQ all-history velocity curves, AI thumbnail scoring, and Goldmine high-opportunity keyword alerts.
 
-- **[VAI0](https://github.com/Number16BusShelter/VAI0)** [![GitHub stars](https://img.shields.io/github/stars/Number16BusShelter/VAI0?style=social&color=white)](https://github.com/Number16BusShelter/VAI0/stargazers)  
+- **[VAI0](https://github.com/Number16BusShelter/VAI0)** [![GitHub_Stars](https://img.shields.io/github/stars/Number16BusShelter/VAI0?style=social&color=white)](https://github.com/Number16BusShelter/VAI0/stargazers)  
   AI CLI utility that extracts video audio, generates multilingual subtitles via Whisper, and produces SEO-optimized YouTube titles and markdown descriptions using local Ollama models.
 
-- **[Clipmark](https://github.com/santoslopez7970-sys/ClipMark)** [![GitHub stars](https://img.shields.io/github/stars/santoslopez7970-sys/ClipMark?style=social&color=white)](https://github.com/santoslopez7970-sys/ClipMark/stargazers)  
+- **[Clipmark](https://github.com/santoslopez7970-sys/ClipMark)** [![GitHub_Stars](https://img.shields.io/github/stars/santoslopez7970-sys/ClipMark?style=social&color=white)](https://github.com/santoslopez7970-sys/ClipMark/stargazers)  
   High-performance YouTube video processing application extracting transcripts, chapters, tags, and SEO metadata via native YouTube APIs built on Next.js, Redis, and MongoDB without AI latency.
 
-- **[reach-optimiser](https://github.com/avirajpaul5/reach-optimiser)** [![GitHub stars](https://img.shields.io/github/stars/avirajpaul5/reach-optimiser?style=social&color=white)](https://github.com/avirajpaul5/reach-optimiser/stargazers)  
+- **[reach-optimiser](https://github.com/avirajpaul5/reach-optimiser)** [![GitHub_Stars](https://img.shields.io/github/stars/avirajpaul5/reach-optimiser?style=social&color=white)](https://github.com/avirajpaul5/reach-optimiser/stargazers)  
   React and TypeScript web application that audits and scores YouTube video metadata for SEO quality, offering AI-generated optimization recommendations powered by Groq and Supabase.
 
-- **[Youtube-Keyword-Scraper](https://github.com/mod-hamza/Youtube-Keyword-Scraper)** [![GitHub stars](https://img.shields.io/github/stars/mod-hamza/Youtube-Keyword-Scraper?style=social&color=white)](https://github.com/mod-hamza/Youtube-Keyword-Scraper/stargazers)  
+- **[Youtube-Keyword-Scraper](https://github.com/mod-hamza/Youtube-Keyword-Scraper)** [![GitHub_Stars](https://img.shields.io/github/stars/mod-hamza/Youtube-Keyword-Scraper?style=social&color=white)](https://github.com/mod-hamza/Youtube-Keyword-Scraper/stargazers)  
   Selenium WebDriver automated scraper collecting video titles, view counts, publish recency, duration, and channel subscriber counts into MySQL for bespoke competitive intelligence.
 
-- **[RankTube](https://github.com/mjgit007/ranktube)** [![GitHub stars](https://img.shields.io/github/stars/mjgit007/ranktube?style=social&color=white)](https://github.com/mjgit007/ranktube/stargazers)  
+- **[RankTube](https://github.com/mjgit007/ranktube)** [![GitHub_Stars](https://img.shields.io/github/stars/mjgit007/ranktube?style=social&color=white)](https://github.com/mjgit007/ranktube/stargazers)  
   Open-source YouTube keyword research ranker featuring a dedicated web interface (`rt-ui`), match-quality relevance algorithms, and JSON export modes utilizing the free YouTube Data API quota.
 
 ---
