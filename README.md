@@ -109,6 +109,9 @@ Explore verified open-source YouTube SEO repositories, CLI utilities, and MCP se
 - **[RankTube](https://github.com/mjgit007/ranktube)** [![GitHub_Stars](https://img.shields.io/github/stars/mjgit007/ranktube?style=social&color=white)](https://github.com/mjgit007/ranktube/stargazers)  
   Open-source YouTube keyword research ranker featuring a dedicated web interface (`rt-ui`), match-quality relevance algorithms, and JSON export modes utilizing the free YouTube Data API quota.
 
+- **[FlashData Google and YouTube Research Data](https://github.com/rocosen/flashdata-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/rocosen/flashdata-mcp?style=social&color=white)](https://github.com/rocosen/flashdata-mcp/stargazers)  
+  MIT CLI and MCP client retrieving YouTube search, extended search, autocomplete, video metadata, transcripts, captions and channel records for custom topic and competitor research; data queries need an API key and paid FlashData Credits, with no free data tier claimed.
+
 ---
 
 ## 🛠️ Architecture: Building a Self-Hosted SEO Stack
